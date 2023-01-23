@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/tech-news.iml" filepath="$PROJECT_DIR$/.idea/tech-news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tech-news-java-api/tech-news-java-api.iml" filepath="$PROJECT_DIR$/tech-news-java-api/tech-news-java-api.iml" />
     </modules>
   </component>
 </project>
